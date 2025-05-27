@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-<br>🔭 I’m currently working on deep learning-based super-resolution for NASA MODIS cloud fraction imagery, aiming to enhance satellite data quality for atmospheric analysis.<br><br>👯 I’m looking to collaborate on deep learning and machine learning projects involving computer vision, natural language processing, or predictive modelling for business and environmental applications.<br><br>🌱 I’m currently exploring advanced neural architectures while developing image enhancement models and learning remote sensing data pipelines.<br><br>💬 Ask me about building satellite image reconstruction, or developing intuitive understanding of neural networks and machine learning architecture design.<br><br><br>
+<br>🔭 I'm currently developing a deep learning-based super-resolution model to upscale MODIS cloud fraction imagery from 100km to 5km resolution over the Avalon Peninsula, with the goal of improving local-scale atmospheric monitoring and enhancing the spatial fidelity of satellite-derived cloud data.<br><br>👯 I’m looking to collaborate on deep learning and machine learning projects involving computer vision, natural language processing, or predictive modelling for business and environmental applications.<br><br>🌱 I’m currently exploring advanced neural architectures while developing image enhancement models and learning remote sensing data pipelines.<br><br>💬 Ask me about building satellite image reconstruction, or developing intuitive understanding of neural networks and machine learning architecture design.<br><br><br>
 
 
 ## 🌐 Socials:
