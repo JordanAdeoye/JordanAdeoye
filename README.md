@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-<br>🔭 I'm currently working on reconstructing MODIS Land Surface Temperature (LST) imagery by filling missing or low-quality pixels (identified through Quality Assurance flags) using ERA5 skin temperature and 2-metre air temperature as auxiliary inputs. My goal is to improve the completeness and reliability of satellite-derived LST data for regional climate and environmental applications.<br><br>👯 I’m looking to collaborate on projects involving geospatial data analysis, machine learning, or predictive modelling for business and environmental challenges.<br><br>🌱 I'm exploring methods for reconstructing and enhancing satellite-based datasets.<br><br>
+<br>🔭 I'm currently working on reconstructing MODIS Land Surface Temperature (LST) imagery by filling missing or low-quality pixels (identified through Quality Assurance flags) using ERA5 skin temperature and 2-metre air temperature as auxiliary inputs. My goal is to improve the completeness and reliability of satellite-derived LST data for regional climate and environmental applications.<br><br>
 
 
 ## 🌐 Socials:
